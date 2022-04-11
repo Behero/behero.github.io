@@ -15,8 +15,15 @@ the reconstruction algorithms
 
 
 P1:Inverse design of plasma metamaterial devices for optical computing
+
 P2:End-to-end metasurface inverse design for single-shot multi-channel imaging
+
 P3：End-to-End Optimization of Metasurfaces for Imaging with Compressed Sensing
+
 P4: End-to-End Hyperspectral-Depth Imaging with Learned Diffractive Optics
+
 p5:Single-shot Hyperspectral-Depth Imaging with Learned Diffractive Optics
+
 P6:Compact Chemical Identifier Based on Plasmonic Metasurface Integrated with Microbolometer Array
+
+#### machine learning-based DOE training procedure
