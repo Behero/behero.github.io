@@ -32,3 +32,11 @@ P6:Compact Chemical Identifier Based on Plasmonic Metasurface Integrated with Mi
 
 P1: End-to-end Optimization of Optics and Image Processing for Achromatic Extended Depth of Field and Super-resolution Imaging
 
+### Optical Design 
+https://www.iap.uni-jena.de/Institute/Teaching/Archive-lightBox-1-lectureID-22.html
+https://www.iap.uni-jena.de/iapmedia/Lecture/Optical+Engineering15667288800
+Modern Lens Design 2nd Edition(MCGraW-Hill,NY) 2005
+Lens Design Fundamentals(Academic NY) 1978
+Optical System Design (Academic NY) 1983
+Lens Design(Marcel Dekker Inc NY) 1995
+
