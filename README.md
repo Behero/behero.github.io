@@ -32,6 +32,11 @@ P6:Compact Chemical Identifier Based on Plasmonic Metasurface Integrated with Mi
 
 P1: End-to-end Optimization of Optics and Image Processing for Achromatic Extended Depth of Field and Super-resolution Imaging
 
+P2:Learning Sensor Multiplexing Design through Back-propagation
+
+P3:DeepBinaryMask: Learning a Binary Mask for Video Compressive Sensing
+
+
 ### Optical Design 
 https://www.iap.uni-jena.de/Institute/Teaching/Archive-lightBox-1-lectureID-22.html
 https://www.iap.uni-jena.de/iapmedia/Lecture/Optical+Engineering15667288800
