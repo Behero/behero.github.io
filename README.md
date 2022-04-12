@@ -44,4 +44,5 @@ Modern Lens Design 2nd Edition(MCGraW-Hill,NY) 2005
 Lens Design Fundamentals(Academic NY) 1978
 Optical System Design (Academic NY) 1983
 Lens Design(Marcel Dekker Inc NY) 1995
-
+## Re
+https://www.mat.tuhh.de/lehre/material/RegLS.pdf
