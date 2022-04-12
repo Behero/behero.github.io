@@ -26,4 +26,9 @@ p5:Single-shot Hyperspectral-Depth Imaging with Learned Diffractive Optics
 
 P6:Compact Chemical Identifier Based on Plasmonic Metasurface Integrated with Microbolometer Array
 
+
+
 #### machine learning-based DOE training procedure
+
+P1: End-to-end Optimization of Optics and Image Processing for Achromatic Extended Depth of Field and Super-resolution Imaging
+
