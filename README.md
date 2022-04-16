@@ -53,3 +53,7 @@ http://image-sensors-world.blogspot.com/2021/01/color-filters-for-0255um-pixels.
 https://www.redalyc.org/journal/2570/257066152006/html/
 
 https://zhuanlan.zhihu.com/p/143855394
+
+### Design with Differentiable programming
+
+https://indico.cern.ch/event/1022938/contributions/4487279/attachments/2303715/3918954/differentiable-programming-and-design-optimization%20%281%29.pdf
