@@ -49,3 +49,5 @@ https://www.mat.tuhh.de/lehre/material/RegLS.pdf
 
 ## News
 http://image-sensors-world.blogspot.com/2021/01/color-filters-for-0255um-pixels.html
+## Algorthm
+https://www.redalyc.org/journal/2570/257066152006/html/
