@@ -57,3 +57,6 @@ https://zhuanlan.zhihu.com/p/143855394
 ### Design with Differentiable programming
 
 https://indico.cern.ch/event/1022938/contributions/4487279/attachments/2303715/3918954/differentiable-programming-and-design-optimization%20%281%29.pdf
+
+##zygo
+https://zeus.phys.uconn.edu/halld/diamonds/Zygo/MetroPro_docs/MetroPro%20Reference%20Guide%200347_K.pdf
