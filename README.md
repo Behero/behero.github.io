@@ -64,3 +64,4 @@ https://zeus.phys.uconn.edu/halld/diamonds/Zygo/MetroPro_docs/MetroPro%20Referen
 一个PPT
 
 https://nano.yale.edu/electron-beam-lithography-training
+https://sci-hub.41610.org/library-genesis
