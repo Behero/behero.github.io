@@ -68,7 +68,18 @@ https://sci-hub.41610.org/library-genesis
 
 ## fmmax
 fmmax                    1.3.0
+
 jax                      0.6.1
+
 jax-cuda12-pjrt          0.6.1
+
 jax-cuda12-plugin        0.6.1
+
 jaxlib                   0.6.1
+
+jax                           0.4.30
+
+jaxlib                        0.4.30
+
+fmmax                         0.11.0
+
