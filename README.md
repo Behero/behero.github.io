@@ -65,3 +65,10 @@ https://zeus.phys.uconn.edu/halld/diamonds/Zygo/MetroPro_docs/MetroPro%20Referen
 
 https://nano.yale.edu/electron-beam-lithography-training
 https://sci-hub.41610.org/library-genesis
+
+## fmmax
+fmmax                    1.3.0
+jax                      0.6.1
+jax-cuda12-pjrt          0.6.1
+jax-cuda12-plugin        0.6.1
+jaxlib                   0.6.1
